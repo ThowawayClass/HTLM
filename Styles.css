@@ -57,9 +57,7 @@ p.paraOne{
 }
 
 /* This is for the code for the footer.  
-It floats and has curved edges you just can't see it because it's white.
-The original background image was gray so you could see the curves.
-Now it just exists for those of us that can see it */
+It floats and has curved edges. */
 div.divFooterOne{
 	
 	padding: 30px 30px 30px 30px;
@@ -74,7 +72,7 @@ footer.footerOne{
 	color: black;
 	font-size: 10px;
 	font-family: Arial;
-	background-color: #FFFFFF;
+	background-color: #CC0000;
 	border-radius: 25px;
 }
 
